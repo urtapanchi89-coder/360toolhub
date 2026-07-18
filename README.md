@@ -1,36 +1,47 @@
 # 360ToolHub
 
-360ToolHub is a free online platform offering useful productivity tools that work instantly in your browser without requiring registration.
+Free online tools to help you complete everyday tasks quickly and easily — no registration required.
+
+🌐 Website: https://360toolhub.com
 
 ## Available Tools
 
+### Business Tools
 - Invoice Generator
 - Resume Builder
+- QR Code Generator
+
+### PDF Tools
 - Merge PDF
 - Compress PDF
+
+### Image Tools
 - Image Resizer
 - Image Compressor
+
+### Productivity Tools
 - Word Counter
-- QR Code Generator
+
+### Calculators
 - Age Calculator
 - EMI / Loan Calculator
 - BMI Calculator
 - Percentage Calculator
 
-## Features
+## Why 360ToolHub?
 
-- 100% Free
-- No Sign Up Required
-- Fast & Easy to Use
-- Privacy Friendly
-- Browser Based
+- ✅ 100% Free
+- ✅ No Signup Required
+- ✅ Works in Your Browser
+- ✅ Privacy Friendly
+- ✅ Fast & Easy to Use
+
+## Mission
+
+Our mission is to make useful online tools accessible to everyone without unnecessary registrations, subscriptions, or complicated interfaces.
+
+New tools are added regularly.
 
 ## Website
 
 https://360toolhub.com
-
-## Mission
-
-Our goal is to provide free, fast, and privacy-friendly online tools that help students, freelancers, developers, businesses, and everyday users complete common tasks without unnecessary complexity.
-
-More tools will be added regularly.
